@@ -6,7 +6,7 @@
 
 
 
-##　 mage Jの歴史
+## Image Jの歴史
 
 Image Jの前身であるNIH imageは、apple社のMacintoshⅡ上で動く化学用画像解析ソフトウェアとして1987年にWayne Rasbandが開発しました。
 
@@ -44,15 +44,15 @@ fijiは、imagejの人気のパッケージの一つで、あらかじめimagej�
 
 ​	最初に、**メニューからHelp>Updater Fiji**を実行して、imagej Updaterを立ち上げましょう。
 
-ここで、プラグインの更新状況を確認することができます。もし、最新状態であれば"Your image j is up to date!"と表示され、その後下図のように表示されます。更新が必要な場合は、そのファイルがリストになっているので右下の**"Apply changes"**をクリックすると更新ができます。
+ここで、プラグインの更新状況を確認することができます。もし、最新状態であれば"Your image j is up to date!"と表示され、その後下図のように表示されます。更新が必要な場合は、そのファイルがリストになっているので右下の **"Apply changes"**をクリックすると更新ができます。
 
 ![image-20230404003707709](/Users/kanako.i/Library/Application Support/typora-user-images/image-20230404003707709.png)
 
 次に、アップデートサイトからプラグインを追加してみましょう。
 
-左下の**"Manage updata sites"**をクリックすると下図のようなリストが出てきます。
+左下の **"Manage updata sites"**をクリックすると下図のようなリストが出てきます。
 
-自分の追加したいプラグインにチェックをつけて**"close"**をクリックします。すると、imagej Updaterに先程チェックをつけたプラグイン名がNameに表示されるでしょう。そこで、**"Apply changes"**をクリックするとダウンロードとインストールがなされます。fijiを再起動すると新しいプラグインが追加されます。
+自分の追加したいプラグインにチェックをつけて **"close"**をクリックします。すると、imagej Updaterに先程チェックをつけたプラグイン名がNameに表示されるでしょう。そこで、 **"Apply changes"**をクリックするとダウンロードとインストールがなされます。fijiを再起動すると新しいプラグインが追加されます。
 
 ![image-20230404012149071](/Users/kanako.i/Library/Application Support/typora-user-images/image-20230404012149071.png)
 

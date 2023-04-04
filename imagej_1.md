@@ -46,13 +46,13 @@ fijiは、imagejの人気のパッケージの一つで、あらかじめimagej�
 
 ここで、プラグインの更新状況を確認することができます。もし、最新状態であれば"Your image j is up to date!"と表示され、その後下図のように表示されます。更新が必要な場合は、そのファイルがリストになっているので右下の **"Apply changes"**をクリックすると更新ができます。
 
-![image-20230404003707709](/Users/kanako.i/Library/Application Support/typora-user-images/image-20230404003707709.png)
+<img width="775" alt="スクリーンショット 2023-04-04 0 35 01" src="https://user-images.githubusercontent.com/127806698/229718197-96091e7e-0169-4223-82f3-1b022b01dd62.png">
 
 次に、アップデートサイトからプラグインを追加してみましょう。
 
-左下の **"Manage updata sites"**をクリックすると下図のようなリストが出てきます。
+左下の **"Manage updata sites"** をクリックすると下図のようなリストが出てきます。
 
-自分の追加したいプラグインにチェックをつけて **"close"**をクリックします。すると、imagej Updaterに先程チェックをつけたプラグイン名がNameに表示されるでしょう。そこで、 **"Apply changes"**をクリックするとダウンロードとインストールがなされます。fijiを再起動すると新しいプラグインが追加されます。
+自分の追加したいプラグインにチェックをつけて **"close"** をクリックします。すると、imagej Updaterに先程チェックをつけたプラグイン名がNameに表示されるでしょう。そこで、 **"Apply changes"** をクリックするとダウンロードとインストールがなされます。fijiを再起動すると新しいプラグインが追加されます。
 
 ![image-20230404012149071](/Users/kanako.i/Library/Application Support/typora-user-images/image-20230404012149071.png)
 

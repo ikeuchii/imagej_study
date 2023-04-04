@@ -30,7 +30,7 @@ fijiは、imagejの人気のパッケージの一つで、あらかじめimagej�
 
 インストール後、fijiを開くと下図のようなメニューバーが表示される
 
-*![imagejのアイコン](/Users/kanako.i/practice/imagej/imagej_icon.png)*
+<img width="610" alt="imagej_icon" src="https://user-images.githubusercontent.com/127806698/229716608-82e7b488-623b-4cc8-929c-3ed181279ede.png">
 
 #### 2. サンプル画像用のプラグインとアップデートサイト
 

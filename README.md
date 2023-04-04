@@ -6,7 +6,7 @@
 
 ## 目次
 
-​	１章  imagejについて
+​	１章  imagejについて(https://github.com/ikeuchii/imagej_study/blob/main/imagej_1.md)
 
 ​	２章  画像データについて
 

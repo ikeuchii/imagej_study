@@ -6,7 +6,7 @@
 
 
 
-##　 Image Jの歴史
+##　 mage Jの歴史
 
 Image Jの前身であるNIH imageは、apple社のMacintoshⅡ上で動く化学用画像解析ソフトウェアとして1987年にWayne Rasbandが開発しました。
 
